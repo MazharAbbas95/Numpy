@@ -39,3 +39,6 @@ array3=np.array(
 print(array3)
 changearray=array3.astype("int8" )#change array from boolien to integer
 print(changearray)
+print(changearray.dtype)
+print(changearray.dtype)
+print(changearray.dtype)
